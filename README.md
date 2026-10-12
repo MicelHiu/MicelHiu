@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there! I'm Michelle 👋
 
-<!--
-**MicelHiu/MicelHiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate Informatics student at Kalbis University, Jakarta
+🤖 Interested in **Software Engineering, Frontend Development, Backend Development, Full-Stack Developer, Mobile Development**
 
-Here are some ideas to get you started:
+Highly motivated student, have a high curiosity, also delighted to expanding experiences in work field besides gaining knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+- **Programming Languages:** JavaScript, TypeScript, Python, C/C++, PHP, Java, Dart, Kotlin
+- **Frameworks:** Next.js, Vue.js, Flutter, Nest.js, Prisma, Laravel
+- **Databases:** PostgreSQL, MySQL, SQL Server.
+- **Tools:** Git, VS Code, IntelliJ, Postman. Docker, Figma, Laragon, Linux
+
+---
+
+## 🌐 Let's Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/michelle-hiu-24a8792b3/
+- 📧 Email: michelle.hiu05@gmail.com
+- 📷 Instagram: @micellhiu
+
+---
+
+💫 "My brain runs on caffeine, but my soul runs on sleep."
