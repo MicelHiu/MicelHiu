@@ -2,10 +2,11 @@
 
 🎓 Undergraduate Informatics student at Kalbis University, Jakarta
 🤖 Interested in **Software Engineering, Frontend Development, Backend Development, Full-Stack Developer, Mobile Development**
-
 Highly motivated student, have a high curiosity, also delighted to expanding experiences in work field besides gaining knowledge.
 
----
+## 📝 Portfolio
+
+https://micelhiu-portfolio.vercel.app/
 
 ## 💻 Tech Stack
 
@@ -14,14 +15,10 @@ Highly motivated student, have a high curiosity, also delighted to expanding exp
 - **Databases:** PostgreSQL, MySQL, SQL Server.
 - **Tools:** Git, VS Code, IntelliJ, Postman. Docker, Figma, Laragon, Linux
 
----
-
 ## 🌐 Let's Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/michelle-hiu-24a8792b3/
 - 📧 Email: michelle.hiu05@gmail.com
 - 📷 Instagram: @micellhiu
-
----
 
 💫 "My brain runs on caffeine, but my soul runs on sleep."
