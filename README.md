@@ -17,7 +17,7 @@ https://micelhiu-portfolio.vercel.app/
 
 ## 🌐 Let's Connect
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/michelle-hiu-24a8792b3/
+- 🔗 LinkedIn: https://www.linkedin.com/in/michelle-hiu/
 - 📧 Email: michelle.hiu05@gmail.com
 - 📷 Instagram: @micellhiu
 
