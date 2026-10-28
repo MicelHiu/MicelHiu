@@ -1,8 +1,6 @@
 ## Hi there! I'm Michelle 👋
 
-🎓 Undergraduate Informatics student at Kalbis University, Jakarta
-🤖 Interested in **Software Engineering, Frontend Development, Backend Development, Full-Stack Developer, Mobile Development**
-Highly motivated student, have a high curiosity, also delighted to expanding experiences in work field besides gaining knowledge.
+🎓 Final-Year Informatics student at Kalbis University, Jakarta.🤖 Interested in **Software Engineering, Frontend Development, Backend Development, Full-Stack Developer, Mobile Development**. Highly motivated student, have a high curiosity, also delighted to expanding experiences in work field besides gaining knowledge.
 
 ## 📝 Portfolio
 
